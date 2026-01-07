@@ -8,9 +8,9 @@ class Solution:
     def missingNum(self, arr):
         n = len(arr) + 1
         
-        expected_sum = n * (n + 1) // 2
+        expected_summ = n * (n + 1) // 2
 
-        actual_sum = sum(arr)
+        actual_summ = sum(arr)
         
 
-        return expected_sum - actual_sum
+        return expected_summ - actual_summ
