@@ -1,4 +1,6 @@
-package SHRADDHA_DIDI_SHEET.ARRAYS;
+package SHRADDHA_DIDI_SHEET.ARRAYS.Easy;
+
+import java.util.*;
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
