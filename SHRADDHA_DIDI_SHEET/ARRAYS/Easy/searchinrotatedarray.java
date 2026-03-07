@@ -1,4 +1,4 @@
-package SHRADDHA_DIDI_SHEET.ARRAYS.Easy;
+
 
 class Solution {
     public int search(int[] nums, int target) {

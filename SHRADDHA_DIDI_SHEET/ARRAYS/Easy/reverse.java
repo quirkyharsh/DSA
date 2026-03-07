@@ -1,4 +1,4 @@
-package SHRADDHA_DIDI_SHEET.ARRAYS.Easy;
+
 
 class Solution {
     public void reverseArray(int arr[]) {

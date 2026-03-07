@@ -1,8 +1,3 @@
-package SHRADDHA_DIDI_SHEET.ARRAYS.Easy;
-
-
-
-
 class Solution {
     public int maxSubArray(int[] nums) {
         int curr_sum = nums[0];
