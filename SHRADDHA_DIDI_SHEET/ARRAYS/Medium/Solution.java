@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
@@ -16,10 +16,8 @@ public class Solution {
             
             actualSum += A[i];
             
-            // Your idea: compare with expected position number
             if (A[i] != expectedNumber) {
                 
-                // If previous element equals current → duplicate
                 if (i > 0 && A[i] == A[i - 1]) {
                     duplicate = A[i];
                 }
