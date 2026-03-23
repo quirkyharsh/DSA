@@ -1,4 +1,5 @@
-package SHRADDHA_DIDI_SHEET.ARRAYS.Medium;
+
+
 
 class Solution {
     public int maxProfit(int[] prices) {
