@@ -1,4 +1,4 @@
-class Solution {
+class rearrangearray {
     public int[] rearrangeArray(int[] nums) {
         int[] result = new int[nums.length];
         int posIndex = 0; 
