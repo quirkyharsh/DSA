@@ -10,7 +10,7 @@ class ListNode {
 };
 */
 
-class Solution {
+class InsetNodeAtBeforeTail {
     public ListNode insertBeforeTail(ListNode head, int X) {
         // Your code goes here
         ListNode curr = head;
